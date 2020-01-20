@@ -1,0 +1,13 @@
+{
+    "disableAutoUpdate": false,
+    "name": "RTPort",
+    "author": "Ruuvi",
+    "description": "Teleport + SkillReplacer Module.",
+    "version": "4.6",
+    "options": {
+        "niceName": "RTP",
+        "guiName": "RTPort"
+    },
+    "servers": ["https://raw.githubusercontent.com/Ruuv1337/RTPort/master/"],
+    "supportUrl": "https://github.com/Ruuv1337/RTPort/issues"
+}
