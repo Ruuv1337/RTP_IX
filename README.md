@@ -2,6 +2,7 @@
 Log on 24.01.20
 1. Add chatTime from: aurelius88
 2. Add ChatCommand's Defender
+3. Add command /rtpb - open broker.
 
 Log on 19.01.20
 1. Made several corrections regarding the mass extermination of targets (ttall).
@@ -103,4 +104,4 @@ $TELE TARGET
 //findu userName - help find User
 //rtpinfo - NEW! other dbg infos (show templates dead monsters) (for tt)
 //Pet's skill transfer - used automatically.
-
+//rtpb - NEW! Open broker everywhere
