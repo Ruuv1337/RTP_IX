@@ -89,6 +89,7 @@ Discord [object Object]#3827
 #Premium Functions
 $SKILL REPLACER
 //sr - Enable SkillReplacer
+//sr reload - Instant config reload.
 //fusion 0 or 1 or 2 or 3  - (for sorc only) Fusion skill tumbler
 
 $TELE TARGET
