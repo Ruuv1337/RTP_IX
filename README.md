@@ -1,4 +1,8 @@
 # RTPort - Tera Online Module
+
+Log on 27.01.20
+1. Add command "sr reload" - Instant config reload.
+
 Log on 24.01.20
 1. Add chatTime from: aurelius88
 2. Add ChatCommand's Defender
