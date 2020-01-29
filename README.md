@@ -1,7 +1,9 @@
 # RTPort - Tera Online Module
 
-Log on 27.01.20
+Log on 29.01.20
 1. Add command "sr reload" - Instant config reload.
+2. Add 4 skill's + SpeedCast mode for Warrior.
+3. Warrior status is checked.
 
 Log on 24.01.20
 1. Add chatTime from: aurelius88
@@ -57,7 +59,7 @@ Log on 28.10.19
 
 ==========================
 ```
-                //Warrior 2
+                //Warrior 6 [checked]
                 //Lancer 2
                 //Slayer 1 [checked]
                 //Berserker 1
