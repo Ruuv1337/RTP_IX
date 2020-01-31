@@ -7,9 +7,8 @@ Log on 29.01.20
 
 Log on 24.01.20
 1. Add chatTime from: aurelius88
-2. Add ChatCommand's Defender
-3. Add command /rtpb - open broker.
-4. Fixed SERVANT SKILL TRANSFER (https://yadi.sk/i/rW70AZ6NkHlSHg)
+2. Add command /rtpb - open broker.
+3. Fixed SERVANT SKILL TRANSFER (https://yadi.sk/i/rW70AZ6NkHlSHg)
 
 Log on 19.01.20
 1. Made several corrections regarding the mass extermination of targets (ttall).
