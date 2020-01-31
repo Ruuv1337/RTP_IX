@@ -6,7 +6,7 @@ Log on 29.01.20
 3. Warrior status is checked.
 
 Log on 24.01.20
-1. Add chatTime from: aurelius88
+1. Add ChatCommand's Defender
 2. Add command /rtpb - open broker.
 3. Fixed SERVANT SKILL TRANSFER (https://yadi.sk/i/rW70AZ6NkHlSHg)
 
