@@ -1,5 +1,9 @@
 # RTPort - Tera Online Module
 
+## Contacts
+`
+Discord [object Object]#3827
+`
 Log on 29.01.20
 1. Add command "sr reload" - Instant config reload.
 2. Add 4 skill's + SpeedCast mode for Warrior.
@@ -77,9 +81,6 @@ Log on 28.10.19
 [For idea thx OverImagine]
 
 Analog mod link: https://github.com/tera-mod/Skill-Replacer
-# Contacts
-
-Discord [object Object]#3827
 
 ## Commands
 **Need to be used in _Proxy Channel_ (/8)**
