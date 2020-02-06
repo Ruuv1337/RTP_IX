@@ -2,7 +2,7 @@
 
 ## Contacts
 `
-Discord [object Object]#3827
+Discord: [object Object]#3827
 `
 ## Log List
 Log on 29.01.20
