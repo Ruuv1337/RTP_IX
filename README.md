@@ -4,6 +4,7 @@
 `
 Discord [object Object]#3827
 `
+## Log List
 Log on 29.01.20
 1. Add command "sr reload" - Instant config reload.
 2. Add 4 skill's + SpeedCast mode for Warrior.
