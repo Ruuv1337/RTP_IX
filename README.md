@@ -1,6 +1,6 @@
 # RTPort - Tera Online Module
 
-`For KR server, a lot has already been fixed and does not work.`
+`For KR server, a lot has already been fixed and does not work. [v92]`
 
 
 ## Contacts
