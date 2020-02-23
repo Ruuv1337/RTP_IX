@@ -9,6 +9,12 @@
 Discord: [object Object]#3827
 `
 ## Log List
+Log on 24.02.20
+1. Add Unlimited Evade for Reaper
+2. Add SpeedCast mode for Reaper.
+3. Reaper status is checked.
+4. Some minor bug fixes.
+
 Log on 29.01.20
 1. Add command "sr reload" - Instant config reload.
 2. Add 4 skill's + SpeedCast mode for Warrior.
@@ -75,7 +81,7 @@ Log on 28.10.19
                 //archer 2
                 //priest 4 [checked]
                 //mystic 0
-                //reaper 4
+                //reaper 5 [checked]
                 //gunner 6 [checked]
                 //brawler 1
                 //ninja 5
