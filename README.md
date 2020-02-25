@@ -10,10 +10,12 @@ Discord: [object Object]#3827
 `
 ## Log List
 Log on 24.02.20
-1. Add Unlimited Evade for Reaper
-2. Add SpeedCast mode for Reaper.
-3. Reaper status is checked.
-4. Some minor bug fixes.
+1. Add Unlimited Evade for Ninja.
+2. Add Unlimited Evade for Reaper.
+3. Add SpeedCast mode for Reaper.
+4. Reaper status is checked.
+5. Ninja status is checked.
+6. Some minor bug fixes.
 
 Log on 29.01.20
 1. Add command "sr reload" - Instant config reload.
@@ -84,7 +86,7 @@ Log on 28.10.19
                 //reaper 5 [checked]
                 //gunner 6 [checked]
                 //brawler 1
-                //ninja 5
+                //ninja 7 [checked]
                 //valkyrie 6 [checked]
 ```
 ==========================
