@@ -9,6 +9,10 @@
 Discord: [object Object]#3827
 `
 ## Log List
+Log on 12.03.20
+1. Added new const in config.. (Reload).
+2. Some minor bug fixes.
+
 Log on 24.02.20
 1. Add Unlimited Evade for Ninja.
 2. Add Unlimited Evade for Reaper.
