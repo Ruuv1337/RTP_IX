@@ -9,6 +9,9 @@
 Discord: [object Object]#3827
 `
 ## Log List
+Log on 16.03.20
+1. Added fixes for Reaper and +1 skill.
+
 Log on 12.03.20
 1. Added new const in config.. (Reload).
 2. Some minor bug fixes.
@@ -87,7 +90,7 @@ Log on 28.10.19
                 //archer 2
                 //priest 4 [checked]
                 //mystic 0
-                //reaper 5 [checked]
+                //reaper 6 [checked]
                 //gunner 6 [checked]
                 //brawler 1
                 //ninja 7 [checked]
