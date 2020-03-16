@@ -11,6 +11,7 @@ Discord: [object Object]#3827
 ## Log List
 Log on 16.03.20
 1. Added fixes for Reaper and +1 skill.
+2. Removed unnecessary functionality. (Servant Exp Transform)
 
 Log on 12.03.20
 1. Added new const in config.. (Reload).
