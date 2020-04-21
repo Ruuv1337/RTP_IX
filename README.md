@@ -7,6 +7,10 @@
 Discord: [object Object]#3827
 `
 ## Log List
+Log on 21.04.20
+1. Added fixes for Lancer.
+2. Lancer status is checked.
+
 Log on 16.03.20
 1. Added fixes for Reaper and +1 skill.
 2. Removed unnecessary functionality. (Servant Exp Transform)
@@ -82,7 +86,7 @@ Log on 28.10.19
 ==========================
 ```
                 //Warrior 6 [checked]
-                //Lancer 2
+                //Lancer 2 [checked]
                 //Slayer 1 [checked]
                 //Berserker 1
                 //sorcerer 5 [checked]
