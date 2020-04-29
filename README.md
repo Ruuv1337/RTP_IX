@@ -16,8 +16,7 @@ Log on 29.04.20
 3. Add SpeedCast mode for Berserker and two skill's.
 4. Berserker status is checked.
 5. Added small fixes for Sorc and Lancer.
-6. Added fixes for Lancer.
-7. Lancer status is checked.
+6. Lancer status is checked.
 
 Log on 16.03.20
 1. Added fixes for Reaper and +1 skill.
