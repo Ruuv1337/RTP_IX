@@ -16,18 +16,14 @@ Log on 29.04.20
 3. Add SpeedCast mode for Berserker and two skill's.
 4. Berserker status is checked.
 5. Added small fixes for Sorc and Lancer.
-
-Log on 21.04.20
-1. Added fixes for Lancer.
-2. Lancer status is checked.
+6. Added fixes for Lancer.
+7. Lancer status is checked.
 
 Log on 16.03.20
 1. Added fixes for Reaper and +1 skill.
 2. Removed unnecessary functionality. (Servant Exp Transform)
-
-Log on 12.03.20
-1. Added new const in config.. (Reload).
-2. Some minor bug fixes.
+3. Added new const in config.. (Reload).
+4. Some minor bug fixes.
 
 Log on 24.02.20
 1. Add Unlimited Evade for Ninja.
@@ -41,14 +37,10 @@ Log on 29.01.20
 1. Add command "sr reload" - Instant config reload.
 2. Add 4 skill's + SpeedCast mode for Warrior.
 3. Warrior status is checked.
-
-Log on 24.01.20
-1. Add ChatCommand's Defender
-2. Add command /rtpb - open broker.
-3. Fixed SERVANT SKILL TRANSFER (https://yadi.sk/i/rW70AZ6NkHlSHg)
-
-Log on 19.01.20
-1. Made several corrections regarding the mass extermination of targets (ttall).
+4. Add ChatCommand's Defender
+5. Add command /rtpb - open broker.
+6. Fixed SERVANT SKILL TRANSFER (https://yadi.sk/i/rW70AZ6NkHlSHg)
+7. Made several corrections regarding the mass extermination of targets (ttall).
 ```
 I express my gratitude for finding of problem and help in resolving it: Smile#6367
 ```
@@ -58,15 +50,11 @@ Log on 17.12.19
 3. Some minor bug fixes
 4. Priest status is checked.
 5. Hide dmgNumbers on use 'ttall'
-
-Log on 12.11.19
-1. Add new function "TeleTarget" (autouse)
-2. Add command ttcrys (for TeleTarget on Corsair battleground)
-3. change commands "crys" "ll" "rl" to "tpcrys" "tpll" "tprl"
-
-Log on 07.11.19
-1. Some minor bug fixes
-2. Added hack for pets.
+6. Add new function "TeleTarget" (autouse)
+7. Add command ttcrys (for TeleTarget on Corsair battleground)
+8. change commands "crys" "ll" "rl" to "tpcrys" "tpll" "tprl"
+9. Some minor bug fixes
+10. Added hack for pets.
 
 info: If you got any “TEMPORARY" pet, now you have the opportunity to transfer all his skills to your "permanent" companion :)
 ```
@@ -76,22 +64,18 @@ Log on 06.11.19
 1. Add Unlimited Evade (for Slayer)
 2. Add SpeedCast mode (for Slayer)
 3. Slayer status is checked.
-
-Log on 04.11.19
-1. Add 6 Skill's (for Valkyrie)
-2. Add SpeedCast mode (for Valkyrie)
-3. Valkyrie status is checked.
+4. Add 6 Skill's (for Valkyrie)
+5. Add SpeedCast mode (for Valkyrie)
+6. Valkyrie status is checked.
 
 Log on 31.10.19
 1. Add Unlimited Evade (for Gunner)
 2. Add Fusion tumbler (for Sorc)
 3. Add one skill for Sorc [Awakening Energy >> UnAgro skill without CD]
 4. Add manual "skill tumbler" in config file for fusion skill [sorc].
-
-Log on 28.10.19
-1. UPPDATE For Last version Client [TERA TOOLBOX]
-2. Made corrections for Shinobi (possibly Valkyrie too)
-3. Added 2 skills for Gunner
+5. UPPDATE For Last version Client [TERA TOOLBOX]
+6. Made corrections for Shinobi (possibly Valkyrie too)
+7. Added 2 skills for Gunner
 
 ==========================
 ```
