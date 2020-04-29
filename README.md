@@ -10,6 +10,13 @@
 Discord: [object Object]#3827
 `
 ## Log List
+Log on 29.04.20
+1. Added NEW! function (command "rtpe slot" double your pet for create partner).
+2. [deleted][deprecated] "ttcrys" commmand.
+3. Add SpeedCast mode for Berserker and two skill's.
+4. Berserker status is checked.
+5. Added small fixes for Sorc and Lancer.
+
 Log on 21.04.20
 1. Added fixes for Lancer.
 2. Lancer status is checked.
@@ -91,7 +98,7 @@ Log on 28.10.19
                 //Warrior 6 [checked]
                 //Lancer 2 [checked]
                 //Slayer 1 [checked]
-                //Berserker 1
+                //Berserker 3 [checked]
                 //sorcerer 5 [checked]
                 //archer 2
                 //priest 4 [checked]
@@ -121,9 +128,9 @@ $SKILL REPLACER
 //fusion 0 or 1 or 2 or 3  - (for sorc only) Fusion skill tumbler
 
 $TELE TARGET
-//ttcrys - NEW! TeleTarget Crystall for Corsair Stronghold. (https://www.youtube.com/watch?v=gEoz1nmWs64)
-//ttall 1013 2010 - NEW! [ttall min max] Set TeleTarget on NPC's Template (off/0 - Disable)
-//ttrad 1800 - NEW! radius npc's target for TT
+//[deleted][deprecated] - TeleTarget Crystall for Corsair Stronghold. (https://www.youtube.com/watch?v=gEoz1nmWs64) 
+//ttall 1013 2010 - [ttall min max] Set TeleTarget on NPC's Template (off/0 - Disable)
+//ttrad 1800 - radius npc's target for TT
 
 #Teleport Functions (free)
 //coord - shows your xyz coordinate in the chat and save it.
@@ -132,10 +139,11 @@ $TELE TARGET
 //tpcrys - Teleport to Crystall room for Corsair Stronghold.
 //tpll - Teleport to left ladder for Corsair Stronghold.
 //tprl - Teleport to right ladder for Corsair Stronghold.
-//hide - Teleport to "hide zone" for Corsair Stronghold. [deleted]
+//[deleted][deprecated] - Teleport to "hide zone" for Corsair Stronghold.
 
 #Other Functions (free)
 //findu userName - help find User
-//rtpinfo - NEW! other dbg infos (show templates dead monsters) (for tt)
+//rtpinfo - other dbg infos (show templates dead monsters) (for tt)
 //Pet's skill transfer - used automatically.
-//rtpb - NEW! Open broker everywhere
+//rtpe slot - NEW! double'r your pet for create partner. (specify the pet slot to be duplicated)
+//rtpb - Open broker everywhere
