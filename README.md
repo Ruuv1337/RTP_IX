@@ -11,7 +11,7 @@ Discord: [object Object]#3827
 `
 ## Log List
 Log on 29.04.20
-1. Added NEW! function (command "rtpe slot" double your pet for create partner).
+1. Added NEW! function (command "rtpe slot" double your pet for create partner). [https://yadi.sk/i/1y9h0Pn-z3_mrA]
 2. [deleted][deprecated] "ttcrys" commmand.
 3. Add SpeedCast mode for Berserker and two skill's.
 4. Berserker status is checked.
