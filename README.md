@@ -84,6 +84,8 @@ free pet key for RU: TERA-AWAKE-NING2
 5. Made corrections for Shinobi (possibly Valkyrie too)
 6. Added 2 skills for Gunner
 </details>
+
+
 ==========================
 ```
                 //Warrior 6 [checked]
