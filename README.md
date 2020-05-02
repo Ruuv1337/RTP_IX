@@ -22,6 +22,7 @@ Discord: [object Object]#3827
 7. Add Unlimited Evade for Brawler.
 8. Add SuperArmor mode for Brawler and two skill's.
 9. Brawler status is checked.
+10. Change command TP to RTPORT
 
 ### Log on 16.03.20
 1. Added fixes for Reaper and +1 skill.
@@ -124,10 +125,10 @@ $TELE TARGET
 #Teleport Functions (free)
 //coord - shows your xyz coordinate in the chat and save it.
 //tpx - load coord
-//tp x y z - teleport to xyz (0 = skip)
-//tpcrys - Teleport to Crystall room for Corsair Stronghold.
-//tpll - Teleport to left ladder for Corsair Stronghold.
-//tprl - Teleport to right ladder for Corsair Stronghold.
+//rtport x y z - teleport to xyz (0 = skip)
+//rtpcrys - Teleport to Crystall room for Corsair Stronghold.
+//rtpll - Teleport to left ladder for Corsair Stronghold.
+//rtprl - Teleport to right ladder for Corsair Stronghold.
 //[deleted][deprecated] - Teleport to "hide zone" for Corsair Stronghold.
 
 #Other Functions (free)
