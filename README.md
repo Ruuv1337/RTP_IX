@@ -13,19 +13,15 @@ Discord: [object Object]#3827
 <details>
 
 ### Log on 02.05.20
-1. Add Unlimited Evade for Brawler.
-2. Add SuperArmor mode for Brawler and two skill's.
-3. Brawler status is checked.
-4. Add manual "paragraph tumbler" in config file for [Brawler].
-5. Add chat "paragraph tumbler" for [Brawler] (prgp "paragraph").
-
-### Log on 29.04.20
 1. Added NEW! function (command "rtpe slot" double your pet for create partner). [https://yadi.sk/i/1y9h0Pn-z3_mrA]
 2. [deleted][deprecated] "ttcrys" commmand.
 3. Add SpeedCast mode for Berserker and two skill's.
 4. Berserker status is checked.
 5. Added small fixes for Sorc and Lancer.
 6. Lancer status is checked.
+7. Add Unlimited Evade for Brawler.
+8. Add SuperArmor mode for Brawler and two skill's.
+9. Brawler status is checked.
 
 ### Log on 16.03.20
 1. Added fixes for Reaper and +1 skill.
