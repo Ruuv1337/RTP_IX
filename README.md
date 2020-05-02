@@ -9,8 +9,17 @@
 `
 Discord: [object Object]#3827
 `
-## Log List
-Log on 29.04.20
+## Changelog
+<details>
+
+### Log on 02.05.20
+1. Add Unlimited Evade for Brawler.
+2. Add SuperArmor mode for Brawler and two skill's.
+3. Brawler status is checked.
+4. Add manual "paragraph tumbler" in config file for [Brawler].
+5. Add chat "paragraph tumbler" for [Brawler] (prgp "paragraph").
+
+### Log on 29.04.20
 1. Added NEW! function (command "rtpe slot" double your pet for create partner). [https://yadi.sk/i/1y9h0Pn-z3_mrA]
 2. [deleted][deprecated] "ttcrys" commmand.
 3. Add SpeedCast mode for Berserker and two skill's.
@@ -18,13 +27,13 @@ Log on 29.04.20
 5. Added small fixes for Sorc and Lancer.
 6. Lancer status is checked.
 
-Log on 16.03.20
+### Log on 16.03.20
 1. Added fixes for Reaper and +1 skill.
 2. Removed unnecessary functionality. (Servant Exp Transform)
 3. Added new const in config.. (Reload).
 4. Some minor bug fixes.
 
-Log on 24.02.20
+### Log on 24.02.20
 1. Add Unlimited Evade for Ninja.
 2. Add Unlimited Evade for Reaper.
 3. Add SpeedCast mode for Reaper.
@@ -32,7 +41,7 @@ Log on 24.02.20
 5. Ninja status is checked.
 6. Some minor bug fixes.
 
-Log on 29.01.20
+### Log on 29.01.20
 1. Add command "sr reload" - Instant config reload.
 2. Add 4 skill's + SpeedCast mode for Warrior.
 3. Warrior status is checked.
@@ -43,7 +52,7 @@ Log on 29.01.20
 ```
 I express my gratitude for finding of problem and help in resolving it: Smile#6367
 ```
-Log on 17.12.19
+### Log on 17.12.19
 1. Add New function (beta): https://yadi.sk/i/zwKGV3BHGVrXDQ
 2. Add radius conf for TT
 3. Some minor bug fixes
@@ -59,7 +68,7 @@ info: If you got any “TEMPORARY" pet, now you have the opportunity to transfer
 ```
 free pet key for RU: TERA-AWAKE-NING2
 ```
-Log on 06.11.19
+### Log on 06.11.19
 1. Add Unlimited Evade (for Slayer)
 2. Add SpeedCast mode (for Slayer)
 3. Slayer status is checked.
@@ -67,15 +76,14 @@ Log on 06.11.19
 5. Add SpeedCast mode (for Valkyrie)
 6. Valkyrie status is checked.
 
-Log on 31.10.19
+### Log on 31.10.19
 1. Add Unlimited Evade (for Gunner)
 2. Add Fusion tumbler (for Sorc)
 3. Add one skill for Sorc [Awakening Energy >> UnAgro skill without CD]
-4. Add manual "skill tumbler" in config file for fusion skill [sorc].
-5. UPPDATE For Last version Client [TERA TOOLBOX]
-6. Made corrections for Shinobi (possibly Valkyrie too)
-7. Added 2 skills for Gunner
-
+4. UPPDATE For Last version Client [TERA TOOLBOX]
+5. Made corrections for Shinobi (possibly Valkyrie too)
+6. Added 2 skills for Gunner
+</details>
 ==========================
 ```
                 //Warrior 6 [checked]
@@ -88,7 +96,7 @@ Log on 31.10.19
                 //mystic 0
                 //reaper 6 [checked]
                 //gunner 6 [checked]
-                //brawler 1
+                //brawler 3 [checked]
                 //ninja 7 [checked]
                 //valkyrie 6 [checked]
 ```
