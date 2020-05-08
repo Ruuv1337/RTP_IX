@@ -12,6 +12,10 @@ Discord: [object Object]#3827
 ## Changelog
 <details>
 
+### Log on 07.05.20
+1. Added feature "RTPShift" (BETA) [Do not use in a group with strangers.]
+2. small fixes for Brawler.
+
 ### Log on 02.05.20
 1. Added NEW! function (command "rtpe slot" double your pet for create partner). [https://yadi.sk/i/1y9h0Pn-z3_mrA]
 2. [deleted][deprecated] "ttcrys" commmand.
@@ -121,6 +125,9 @@ $TELE TARGET
 //[deleted][deprecated] - TeleTarget Crystall for Corsair Stronghold. (https://www.youtube.com/watch?v=gEoz1nmWs64) 
 //ttall 1013 2010 - [ttall min max] Set TeleTarget on NPC's Template (off/0 - Disable)
 //ttrad 1800 - radius npc's target for TT
+
+$SHIFT MOD
+rtpshift - Enable\Disable mod. [BETA]
 
 #Teleport Functions (free)
 //coord - shows your xyz coordinate in the chat and save it.
