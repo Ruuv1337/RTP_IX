@@ -127,7 +127,7 @@ $TELE TARGET
 //ttrad 1800 - radius npc's target for TT
 
 $SHIFT MOD
-rtpshift - Enable\Disable mod. [BETA]
+//rtpshift - Enable\Disable mod. [BETA]
 
 #Teleport Functions (free)
 //coord - shows your xyz coordinate in the chat and save it.
