@@ -2,7 +2,7 @@
 
 `On [v92+], a lot has already been fixed and does not work. `
 
-`04/28/20 discontinued support for 2800 server`
+`04/28/20 discontinued support for serverID "9"`
 
 
 ## Contacts
