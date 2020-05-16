@@ -142,4 +142,4 @@ $TELE TARGET
 //Pet's skill transfer - used automatically.
 //rtpe slot - NEW! double'r your pet for create partner. (specify the pet slot to be duplicated)
 //rtpb - Open broker everywhere.
-//rtppzond - NEW! Shows players in range.
+//rtpzond - NEW! Shows players in range.
