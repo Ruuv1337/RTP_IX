@@ -14,6 +14,9 @@ Discord: [object Object]#3827
 ## Changelog
 <details>
 
+### Log on 16.05.20
+1. Add New Function RTPZond (shows players in range)
+
 ### Log on 02.05.20
 1. Added NEW! function (command "rtpe slot" double your pet for create partner). [https://yadi.sk/i/1y9h0Pn-z3_mrA]
 2. [deleted][deprecated] "ttcrys" commmand.
@@ -138,4 +141,5 @@ $TELE TARGET
 //findu userName - help find User
 //Pet's skill transfer - used automatically.
 //rtpe slot - NEW! double'r your pet for create partner. (specify the pet slot to be duplicated)
-//rtpb - Open broker everywhere
+//rtpb - Open broker everywhere.
+//rtppzond - NEW! Shows players in range.
