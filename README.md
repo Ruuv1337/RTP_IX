@@ -14,6 +14,10 @@ Discord: [object Object]#3827
 ## Changelog
 <details>
 
+### Log on 24.05.20
+1. Fix player's counter (RTPZond)
+2. Added glow of players in the air (RTPZond)
+
 ### Log on 16.05.20
 1. Add New Function RTPZond (shows players in range)
 
