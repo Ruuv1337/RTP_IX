@@ -14,9 +14,11 @@ Discord: [object Object]#3827
 ## Changelog
 <details>
 
-### Log on 24.05.20
+### Log on 27.05.20
 1. Fix player's counter (RTPZond)
 2. Added glow of players in the air (RTPZond)
+3. Add SkillBlink for 910
+4. Change Teleport func.
 
 ### Log on 16.05.20
 1. Add New Function RTPZond (shows players in range)
@@ -133,13 +135,16 @@ $TELE TARGET
 //ttinfo - show templates dead monsters
 
 #Teleport Functions (free)
-//coord - shows your xyz coordinate in the chat and save it.
-//tpx - load coord
-//rtport x y z - teleport to xyz (0 = skip)
+//tps "name" - shows your xyz coord's in chat and save it (name only needed for save to sheet)
+//tpl - load save coord's
+//tpl list - open save list
+//tpl "name" del - delete "name"
+//tpx x y z - custom teleport to x.y.z (0 = skip)
+//blink length - teleport to side of character look.
 //rtpcrys - Teleport to Crystall room for Corsair Stronghold.
 //rtpll - Teleport to left ladder for Corsair Stronghold.
 //rtprl - Teleport to right ladder for Corsair Stronghold.
-//[deleted][deprecated] - Teleport to "hide zone" for Corsair Stronghold.
+//kuma z - to drop under textures or so that you don’t get hit.
 
 #Other Functions (free)
 //findu userName - help find User
@@ -147,3 +152,4 @@ $TELE TARGET
 //rtpe slot - NEW! double'r your pet for create partner. (specify the pet slot to be duplicated)
 //rtpb - Open broker everywhere.
 //rtpzond - NEW! Shows players in range.
+//kill - suicide.
