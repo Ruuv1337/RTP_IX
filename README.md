@@ -138,7 +138,7 @@ $TELE TARGET
 //tps "name" - shows your xyz coord's in chat and save it (name only needed for save to sheet)
 //tpl - load save coord's
 //tpl list - open save list
-//tpl "name" del - delete "name"
+//tpl "name" del - delete "name" from save list
 //tpx x y z - custom teleport to x.y.z (0 = skip)
 //blink length - teleport to side of character look.
 //rtpcrys - Teleport to Crystall room for Corsair Stronghold.
