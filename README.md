@@ -15,11 +15,11 @@ Discord: [object Object]#3827
 <details>
 
 ### Log on 31.05.20
-1. Improved target auto-capture feature.
-2. Changed radius determination algorithm.
+1. Improved target auto-capture feature. [ttall]
+2. Changed radius determination algorithm. [ttrad]
 3. Fixed 2 skills for Gunner.
-4. Added the ability to use autocapture to Archer.
-5. and small bug fixes.
+4. Added ability to use autocapture to Archer. [ttall]
+5. fix for blink and oth. small bug fixes.
 
 ### Log on 27.05.20
 1. Fix player's counter (RTPZond)
