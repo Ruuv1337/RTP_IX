@@ -138,7 +138,7 @@ $SKILL REPLACER
 $TELE TARGET
 //[deleted][deprecated] - TeleTarget Crystall for Corsair Stronghold. (https://www.youtube.com/watch?v=gEoz1nmWs64) 
 //ttall 1013 2010 - [ttall min max] Set TeleTarget on NPC's Template (off/0 - Disable)
-//ttrad 1800 - radius npc's target for TT
+//ttrad 60 - radius npc's target for TT
 //ttinfo - show templates dead monsters
 
 #Teleport Functions (free)
