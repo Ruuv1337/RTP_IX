@@ -18,7 +18,7 @@ Discord: [object Object]#3827
 1. Improved target auto-capture feature. [ttall]
 2. Changed radius determination algorithm. [ttrad]
 3. Fixed 2 skills for Gunner.
-4. Added ability to use autocapture to Archer. [ttall]
+4. Added ability to use autocapture to Archer. [ttall] https://yadi.sk/i/AmQQq6J0gkjFfg
 5. fix for blink and oth. small bug fixes.
 
 ### Log on 27.05.20
