@@ -14,6 +14,13 @@ Discord: [object Object]#3827
 ## Changelog
 <details>
 
+### Log on 31.05.20
+1. Improved target auto-capture feature.
+2. Changed radius determination algorithm.
+3. Fixed 2 skills for Gunner.
+4. Added the ability to use autocapture to Archer.
+5. and small bug fixes.
+
 ### Log on 27.05.20
 1. Fix player's counter (RTPZond)
 2. Added glow of players in the air (RTPZond)
