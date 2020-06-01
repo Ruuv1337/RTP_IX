@@ -6,13 +6,11 @@
 
 `05/08/20 discontinued support for serverID "9"`
 ## Fonts Mod (upon request)
-<details>
-  # BEFORE
+  ### BEFORE
   https://yadi.sk/i/Evf4o0UbWp5Oyw
   
-  # AFTER
+  ### AFTER
   https://yadi.sk/i/LaQKFWqwvj34mw
-</details>
 
 ## Contacts
 `
