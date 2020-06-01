@@ -5,7 +5,7 @@
 `This mod is not compatible with skill prediction or analogous mods`
 
 `05/08/20 discontinued support for serverID "9"`
-## Fonts Mod (upon request)
+## Fonts Mod RU/EU/NA (upon request)
 <details>
   
 * BEFORE
