@@ -5,7 +5,14 @@
 `This mod is not compatible with skill prediction or analogous mods`
 
 `05/08/20 discontinued support for serverID "9"`
-
+## Fonts Mod (upon request)
+<details>
+  # BEFORE
+  https://yadi.sk/i/Evf4o0UbWp5Oyw
+  
+  # AFTER
+  https://yadi.sk/i/LaQKFWqwvj34mw
+</details>
 
 ## Contacts
 `
