@@ -6,11 +6,14 @@
 
 `05/08/20 discontinued support for serverID "9"`
 ## Fonts Mod (upon request)
-  ### BEFORE
-  https://yadi.sk/i/Evf4o0UbWp5Oyw
+<details>
   
-  ### AFTER
-  https://yadi.sk/i/LaQKFWqwvj34mw
+* BEFORE
+![Font_Fix_by_Ruuvi_before](https://user-images.githubusercontent.com/31353526/83462960-455be280-a475-11ea-8e57-5a9bcc210987.png)
+  
+* AFTER
+![Font_Fix_by_Ruuvi_after](https://user-images.githubusercontent.com/31353526/83462959-442ab580-a475-11ea-8f09-dd069899e83a.png)
+</details>
 
 ## Contacts
 `
