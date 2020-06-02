@@ -21,6 +21,7 @@ Discord: [object Object]#3827
 `
 ## Changelog
 <details>
+  
 ### Log on 02.06.20
 1. A few small fixes for Slayer
 2. Fixed bug with un-mount
