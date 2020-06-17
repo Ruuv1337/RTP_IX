@@ -5,7 +5,7 @@
     "description": "Teleport + SkillReplacer Module.",
     "version": "6.0",
     "options": {
-        "niceName": "RTP",
+        "cliName": "RTP",
         "guiName": "RTPort_6"
     },
     "servers": ["https://raw.githubusercontent.com/Ruuv1337/RTPort/master/"],
