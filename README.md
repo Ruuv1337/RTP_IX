@@ -20,9 +20,7 @@
 Discord: [object Object]#3827
 `
 ## Time extension (Premium)
-`
 [Go to..]: //obj.tix.su/tera/
-`
 
 ## Changelog
 <details>
