@@ -23,6 +23,9 @@ Discord: [object Object]#3827
 
 ## Changelog
 <details>
+### Log on 28.06.20
+1. Add new feature "Auto LockOn". (sr lockon)
+2. Fixed small bugs..
   
 ### Log on 02.06.20
 1. A few small fixes for Slayer
@@ -147,6 +150,7 @@ Analog mod link: https://github.com/tera-mod/Skill-Replacer
 $SKILL REPLACER
 //sr - Enable SkillReplacer
 //sr reload - Instant config reload.
+//sr lockon - Enable Auto-LockOn
 //fusion 0 or 1 or 2 or 3  - (for sorc only) Fusion skill tumbler
 
 $TELE TARGET
