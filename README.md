@@ -23,6 +23,7 @@ Discord: [object Object]#3827
 
 ## Changelog
 <details>
+  
 ### Log on 28.06.20
 1. Add new feature "Auto LockOn". (sr lockon)
 2. Fixed small bugs..
