@@ -1,7 +1,5 @@
 # RTPort - Tera Online Module
 
-`On [v92+], a lot has already been fixed and does not work. `
-
 `This mod is not compatible with skill prediction or analogous mods`
 
 `05/08/20 discontinued support for serverID "9"`
