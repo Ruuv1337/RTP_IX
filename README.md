@@ -23,6 +23,8 @@ Discord: [object Object]#3827
 
 ## Changelog
 <details>
+### Log on 09.08.20
+1. The ability to synthesize pets from a take no longer works and has been removed.
   
 ### Log on 28.06.20
 1. Add new feature "Auto LockOn". (sr lockon)
@@ -155,7 +157,7 @@ $SKILL REPLACER
 //fusion 0 or 1 or 2 or 3  - (for sorc only) Fusion skill tumbler
 
 $TELE TARGET
-//[deleted][deprecated] - TeleTarget Crystall for Corsair Stronghold. (https://www.youtube.com/watch?v=gEoz1nmWs64) 
+//[deprecated] ttcrys - TeleTarget Crystall for Corsair Stronghold. (https://www.youtube.com/watch?v=gEoz1nmWs64) 
 //ttall 1013 2010 - [ttall min max] Set TeleTarget on NPC's Template (off/0 - Disable)
 //ttrad 60 - radius npc's target for TT
 //ttinfo - show templates dead monsters
@@ -175,7 +177,7 @@ $TELE TARGET
 #Other Functions (free)
 //findu userName - help find User
 //Pet's skill transfer - used automatically.
-//rtpe slot - NEW! double'r your pet for create partner. (specify the pet slot to be duplicated)
+//[deleted][deprecated] (rtpe slot) - NEW! double'r your pet for create partner. (specify the pet slot to be duplicated)
 //rtpb - Open broker everywhere.
 //rtpzond - NEW! Shows players in range.
 //kill - suicide.
