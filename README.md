@@ -4,10 +4,6 @@
 
 `05/08/20 discontinued support for serverID "9"`
 
-# for protocol.372755
-`S_CANT_FLY_ANYMORE = 58792`
-`S_USER_FLYING_LOCATION = 42141`
-
 ## Fonts Mod RU/EU/NA (upon request)
 <details>
   
