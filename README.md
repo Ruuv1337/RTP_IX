@@ -12,6 +12,7 @@ Discord: [object Object]#3827
 
 ## Changelog
 <details>
+  
 ### Log on 09.08.20
 1. The ability to synthesize pets from a take no longer works and has been removed.
   
