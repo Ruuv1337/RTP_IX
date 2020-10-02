@@ -14,9 +14,8 @@ Discord: [object Object]#3827
 <details>
   
 ### Log on 02.10.20
-*Critical update. Correction of TT work.
-
-1. Added sorting. The priority is the nearest goals.
+1. Critical update. Correction of TT work.
+2. Added sorting. The priority is the nearest goals.
 
 `Many thanks to everyone who took part in identifying problem. Time has been updated.`
   
