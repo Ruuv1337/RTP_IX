@@ -1,12 +1,12 @@
 {
     "disableAutoUpdate": false,
-    "name": "RTPort 6",
+    "name": "RTPort",
     "author": "Ruuv1337",
     "description": "Teleport + SkillReplacer Module.",
-    "version": "6.0",
+    "version": "7.0",
     "options": {
         "niceName": "RTP",
-        "guiName": "RTPort_6"
+        "guiName": "RTPort"
     },
     "servers": ["https://raw.githubusercontent.com/Ruuv1337/RTPort/master/"],
     "supportUrl": "https://github.com/Ruuv1337/RTPort/issues"
