@@ -13,10 +13,12 @@ Discord: [object Object]#3827
 ## Changelog
 <details>
   
- ### Log on 02.10.20
-Critical update. Correction of TT work.
-Added sorting. The priority is the nearest goals.
-Many thanks to everyone who took part in identifying problem. Time has been updated.
+### Log on 02.10.20
+*Critical update. Correction of TT work.
+
+1. Added sorting. The priority is the nearest goals.
+
+`Many thanks to everyone who took part in identifying problem. Time has been updated.`
   
 ### Log on 09.08.20
 1. The ability to synthesize pets from a take no longer works and has been removed.
