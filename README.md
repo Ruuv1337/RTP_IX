@@ -12,6 +12,7 @@ Discord: [object Object]#3827
 
 ## Changelog
 <details>
+  
 ### Log on 06.10.20
 1. Bug fixes.
 
