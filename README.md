@@ -1,4 +1,4 @@
-# RTPort - Tera Online Module
+# RTP7 - Tera Online Module
 
 `This mod is not compatible with skill prediction or analogous mods`
 
@@ -12,7 +12,9 @@ Discord: [object Object]#3827
 
 ## Changelog
 <details>
-  
+### Log on 06.10.20
+1. Bug fixes.
+
 ### Log on 02.10.20
 1. Critical update. Correction of TT work.
 2. Added sorting. The priority is the nearest goals.
