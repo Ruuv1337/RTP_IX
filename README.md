@@ -13,6 +13,10 @@ Discord: [object Object]#3827
 ## Changelog
 <details>
   
+### Log on 20.10.20
+1. Add New Feature Flight Mode. !EXPERIMENTAL!
+2. Add new command fly x - Enable Fly Mode (Inaccessibility)
+  
 ### Log on 06.10.20
 1. Bug fixes.
 
@@ -21,7 +25,7 @@ Discord: [object Object]#3827
 2. Added sorting. The priority is the nearest goals.
 
 `Many thanks to everyone who took part in identifying problem. Time has been updated.`
-  
+
 ### Log on 09.08.20
 1. The ability to synthesize pets from a take no longer works and has been removed.
   
@@ -160,6 +164,9 @@ $TELE TARGET
 //ttall 1013 2010 - [ttall min max] Set TeleTarget on NPC's Template (off/0 - Disable)
 //ttrad 60 - radius npc's target for TT
 //ttinfo - show templates dead monsters
+
+$Inaccessibility
+fly x - Enable Fly Mode (x - Height)
 
 #Teleport Functions (free)
 //tps "name" - shows your xyz coord's in chat and save it (name only needed for save to sheet)
