@@ -16,6 +16,7 @@ Discord: [object Object]#3827
 ### Log on 20.10.20
 1. Add New Feature Flight Mode. !EXPERIMENTAL!
 2. Add new command fly x - Enable Fly Mode (Inaccessibility)
+Video: https://yadi.sk/d/XP9Bk37xe5MhMw
   
 ### Log on 06.10.20
 1. Bug fixes.
