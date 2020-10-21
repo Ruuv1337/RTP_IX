@@ -150,7 +150,7 @@ Analog mod link: https://github.com/tera-mod/Skill-Replacer
 **Need to be used in _Proxy Channel_ (/8)**
 ```
 #Module Authorization
-//rtp email - Activation "Premium Functions" (3 days free)
+//rtp email - Activation "Premium Functions" (1 days free)
 
 #Premium Functions
 $SKILL REPLACER
