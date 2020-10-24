@@ -13,10 +13,15 @@ Discord: [object Object]#3827
 ## Changelog
 <details>
   
+### Log on 24.10.20
+1. Fix Feature Inaccessibility Mode.
+2. Add new command "ina h r" - Set Auto Teleport to monster Radius (r)
+  
+  
 ### Log on 20.10.20
-1. Add New Feature Flight Mode. !EXPERIMENTAL! | Video: https://yadi.sk/d/XP9Bk37xe5MhMw
+1. Add New Feature Inaccessibility Mode. !EXPERIMENTAL! | Video: https://yadi.sk/d/XP9Bk37xe5MhMw
 2. Add new command "ina" - Enable Inaccessibility Mode
-3. Add new command "ina x" - Set height (x)
+3. Add new command "ina h" - Set height (h)
   
 ### Log on 06.10.20
 1. Bug fixes.
@@ -168,7 +173,8 @@ $TELE TARGET
 
 $Inaccessibility
 //ina - Enable Inaccessibility Mode
-//ina x - Set height (x)
+//ina h - Set height (x)
+//ina h r - Set Auto Teleport to monster Radius (r)
 
 #Teleport Functions (free)
 //tps "name" - shows your xyz coord's in chat and save it (name only needed for save to sheet)
