@@ -15,7 +15,8 @@ Discord: [object Object]#3827
   
 ### Log on 20.10.20
 1. Add New Feature Flight Mode. !EXPERIMENTAL! | Video: https://yadi.sk/d/XP9Bk37xe5MhMw
-2. Add new command fly x - Enable Fly Mode (Inaccessibility)
+2. Add new command "ina" - Enable Inaccessibility Mode
+3. Add new command "ina x" - Set height (x)
   
 ### Log on 06.10.20
 1. Bug fixes.
@@ -166,7 +167,8 @@ $TELE TARGET
 //ttinfo - show templates dead monsters
 
 $Inaccessibility
-fly x - Enable Fly Mode (x - Height)
+//ina - Enable Inaccessibility Mode
+//ina x - Set height (x)
 
 #Teleport Functions (free)
 //tps "name" - shows your xyz coord's in chat and save it (name only needed for save to sheet)
