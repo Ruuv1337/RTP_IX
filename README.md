@@ -13,6 +13,9 @@ Discord: [object Object]#3827
 ## Changelog
 <details>
   
+### Log on 30.10.20
+1. Added adjustment of attack speed from the config file for some skills.
+  
 ### Log on 24.10.20
 1. Fix Feature Inaccessibility Mode.
 2. Add new command "ina h r" - Set Auto Teleport to monster Radius (r)
