@@ -13,6 +13,10 @@ Discord: [object Object]#3827
 ## Changelog
 <details>
   
+### Log on 18.11.20
+1. Bug fixes (Inaccessibility Mode).
+2. Add AutoPress some skills.
+  
 ### Log on 30.10.20
 1. Added adjustment of attack speed from the config file for some skills.
   
