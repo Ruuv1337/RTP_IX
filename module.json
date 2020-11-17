@@ -8,6 +8,6 @@
         "niceName": "RTP",
         "guiName": "RTP"
     },
-    "servers": ["https://raw.githubusercontent.com/Ruuv1337/RTP7/master/"],
-    "supportUrl": "https://github.com/Ruuv1337/RTP7/issues"
+    "servers": ["https://raw.githubusercontent.com/Ruuv1337/RTP_v8/master/"],
+    "supportUrl": "https://github.com/Ruuv1337/RTP_v8/issues"
 }
