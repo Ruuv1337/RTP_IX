@@ -136,25 +136,6 @@ free pet key for RU: TERA-AWAKE-NING2
 6. Added 2 skills for Gunner
 </details>
 
-
-==========================
-```
-                //Warrior 6 [checked]
-                //Lancer 2 [checked]
-                //Slayer 1 [checked]
-                //Berserker 3 [checked]
-                //sorcerer 5 [checked]
-                //archer 2
-                //priest 4 [checked]
-                //mystic 0
-                //reaper 6 [checked]
-                //gunner 6 [checked]
-                //brawler 3 [checked]
-                //ninja 7 [checked]
-                //valkyrie 6 [checked]
-```
-==========================
-
 [For idea thx OverImagine]
 
 Analog mod link: https://github.com/tera-mod/Skill-Replacer
