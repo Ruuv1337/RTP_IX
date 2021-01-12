@@ -14,7 +14,7 @@ Discord: [object Object]#3827
 <details>
   
 ### Log on 12.01.21
-1. Support for multiple gameWindows (Beta)
+1. Support for multiple gameWindows for Ina Mod (Beta)
 2. Removed auto Hailstorm from autoPulse.
   
 ### Log on 18.11.20
