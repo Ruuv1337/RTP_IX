@@ -13,6 +13,10 @@ Discord: [object Object]#3827
 ## Changelog
 <details>
   
+### Log on 12.01.21
+1. Support for multiple gameWindows (Beta)
+2. Removed auto Hailstorm from autoPulse.
+  
 ### Log on 18.11.20
 1. Bug fixes (Inaccessibility Mode).
 2. Add AutoPress some skills.
