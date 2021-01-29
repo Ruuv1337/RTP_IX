@@ -142,8 +142,6 @@ free pet key for RU: TERA-AWAKE-NING2
 
 [For idea thx OverImagine]
 
-Analog mod link: https://github.com/tera-mod/Skill-Replacer
-
 ## Commands
 **Need to be used in _Proxy Channel_ (/8)**
 ```
