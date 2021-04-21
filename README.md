@@ -1,6 +1,7 @@
 # RTP7 - Tera Online Module
 
 `This mod is not compatible with skill prediction or analogous mods`
+
 `05/08/20 discontinued support for serverID "9"`
 
 `From 21.04.21 - prices have been reduced by 4 times.`
