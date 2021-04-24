@@ -4,8 +4,6 @@
 
 `05/08/20 discontinued support for serverID "9"`
 
-`From 21.04.21 - prices have been reduced by 4 times.`
-
 ## Contacts
 `
 Discord: [object Object]#3827
