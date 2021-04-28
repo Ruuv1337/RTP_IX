@@ -9,6 +9,19 @@
 Discord: [object Object]#3827
 `
 ## Time extension ([Premium](//obj.tix.su/tera/ "Go to.."))
+`From 05/01/2021, all regular customers have been transferred to a lifetime tariff.`
+
+`Now only 3 accounts can be binded to one server.`
+
+## Some Videos
+
+https://yadi.sk/i/AmQQq6J0gkjFfg (Archer + TeleTarget)
+
+https://yadi.sk/i/qmu8L6khtQUiAQ (Valkyrie)
+
+https://yadi.sk/i/1neD0SLaaN2eSw (Sorc + Inaccessibility Mode)
+
+https://yadi.sk/i/hkIUjtogadiOjQ (Slayer)
 
 ## Changelog
 <details>
@@ -30,7 +43,7 @@ Discord: [object Object]#3827
   
   
 ### Log on 20.10.20
-1. Add New Feature Inaccessibility Mode. !EXPERIMENTAL! | Video: https://yadi.sk/d/XP9Bk37xe5MhMw
+1. Add New Feature Inaccessibility Mode. !EXPERIMENTAL!
 2. Add new command "ina" - Enable Inaccessibility Mode
 3. Add new command "ina h" - Set height (h)
   
@@ -58,7 +71,7 @@ Discord: [object Object]#3827
 1. Improved target auto-capture feature. [ttall]
 2. Changed radius determination algorithm. [ttrad]
 3. Fixed 2 skills for Gunner.
-4. Added ability to use autocapture to Archer. [ttall] https://yadi.sk/i/AmQQq6J0gkjFfg
+4. Added ability to use autocapture to Archer. [ttall]
 5. fix for blink and oth. small bug fixes.
 
 ### Log on 27.05.20
@@ -71,7 +84,7 @@ Discord: [object Object]#3827
 1. Add New Function RTPZond (shows players in range)
 
 ### Log on 02.05.20
-1. Added NEW! function (command "rtpe slot" double your pet for create partner). [https://yadi.sk/i/1y9h0Pn-z3_mrA]
+1. Added NEW! function (command "rtpe slot" double your pet for create partner).
 2. [deleted][deprecated] "ttcrys" commmand.
 3. Add SpeedCast mode for Berserker and two skill's.
 4. Berserker status is checked.
@@ -102,22 +115,21 @@ Discord: [object Object]#3827
 3. Warrior status is checked.
 4. Add ChatCommand's Defender
 5. Add command /rtpb - open broker.
-6. Fixed SERVANT SKILL TRANSFER (https://yadi.sk/i/rW70AZ6NkHlSHg)
+6. Fixed SERVANT SKILL TRANSFER
 7. Made several corrections regarding the mass extermination of targets (ttall).
 ```
 I express my gratitude for finding of problem and help in resolving it: Smile#6367
 ```
 ### Log on 17.12.19
-1. Add New function (beta): https://yadi.sk/i/zwKGV3BHGVrXDQ
-2. Add radius conf for TT
-3. Some minor bug fixes
-4. Priest status is checked.
-5. Hide dmgNumbers on use 'ttall'
-6. Add new function "TeleTarget" (autouse)
-7. Add command ttcrys (for TeleTarget on Corsair battleground)
-8. change commands "crys" "ll" "rl" to "tpcrys" "tpll" "tprl"
-9. Some minor bug fixes
-10. Added hack for pets.
+1. Add radius conf for TT
+2. Some minor bug fixes
+3. Priest status is checked.
+4. Hide dmgNumbers on use 'ttall'
+5. Add new function "TeleTarget" (autouse)
+6. Add command ttcrys (for TeleTarget on Corsair battleground)
+7. change commands "crys" "ll" "rl" to "tpcrys" "tpll" "tprl"
+8. Some minor bug fixes
+9. Added hack for pets.
 
 info: If you got any “TEMPORARY" pet, now you have the opportunity to transfer all his skills to your "permanent" companion :)
 ```
