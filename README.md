@@ -1,4 +1,4 @@
-# RTP8 - Tera Online Module
+# RTP_IX - Tera Online Module
 
 `This mod is not compatible with skill prediction or analogous mods`
 
