@@ -1,11 +1,11 @@
 {
     "disableAutoUpdate": false,
-    "name": "RTP",
+    "name": "by [object Object]",
     "author": "<font color='#00ff00'>&nbsp;[object Object]</font>",
     "description": "Teleport + SkillReplacer + Inaccessibility",
     "version": "<font color='#00FFFF'>IX</font>",
     "options": {
-        "niceName": "<font color='#FFFF00'>RTP&nbsp;</font>",
+        "niceName": "RTP IX",
         "guiName": "<font color='#FFFF00'>RTP&nbsp;</font>"
     },
     "servers": ["https://raw.githubusercontent.com/Ruuv1337/RTP_IX/master/"],
