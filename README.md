@@ -16,8 +16,11 @@ Discord: [object Object]#3827
   
 ### Log on 14.05.21 [UPDATE 105.2]
 A lot has been fixed since update 105.2...
+
 -Most likely all endless evades have been fixed.
+
 -ArcanePulse has also undergone changes.
+
 I fixed it as best I could. It's still not as good as it used to be. But at least something. 
   
 ### Log on 12.01.21
