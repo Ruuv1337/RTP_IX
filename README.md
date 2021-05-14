@@ -2,8 +2,6 @@
 
 `This mod is not compatible with skill prediction or analogous mods`
 
-`05/08/20 discontinued support for serverID "9"`
-
 ## Contacts
 `
 Discord: [object Object]#3827
@@ -13,18 +11,14 @@ Discord: [object Object]#3827
 
 `Now only 3 accounts can be binded to one server.`
 
-## Some Videos
-
-https://yadi.sk/i/AmQQq6J0gkjFfg (Archer + TeleTarget)
-
-https://yadi.sk/i/qmu8L6khtQUiAQ (Valkyrie)
-
-https://yadi.sk/i/1neD0SLaaN2eSw (Sorc + Inaccessibility Mode)
-
-https://yadi.sk/i/hkIUjtogadiOjQ (Slayer)
-
 ## Changelog
 <details>
+  
+### Log on 14.05.21 [UPDATE 105.2]
+A lot has been fixed since update 105.2...
+-Most likely all endless evades have been fixed.
+-ArcanePulse has also undergone changes.
+I fixed it as best I could. It's still not as good as it used to be. But at least something. 
   
 ### Log on 12.01.21
 1. Support for multiple gameWindows for Ina Mod (Beta)
