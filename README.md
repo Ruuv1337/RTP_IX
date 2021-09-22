@@ -4,7 +4,7 @@
 
 ## Contacts
 `
-Discord: [object Object]#3827
+Discord: [object Object]#6990
 `
 ## Time extension ([Premium](//obj.tix.su/tera/ "Go to.."))
 `From 05/01/2021, all regular customers have been transferred to a lifetime tariff.`
